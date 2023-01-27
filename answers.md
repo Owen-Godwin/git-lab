@@ -121,4 +121,5 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 
-Answer 10:
+Answer 10: 
+My changes made online had not been reflected in my local copy

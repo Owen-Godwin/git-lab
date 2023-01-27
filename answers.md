@@ -123,3 +123,17 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 Answer 10: 
 My changes made online had not been reflected in my local copy
+
+
+Answer 11:
+After running the git push command I was faced with an error due to the online file haveing information that is not on my local file.
+
+
+Answer 12:
+After pulling my online file onto my local directory, the changes I made online were reflected in my local copy.
+
+
+Answer 13:
+
+
+
